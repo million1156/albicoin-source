@@ -1,0 +1,39 @@
+body {
+  background: #2b2b2b;
+  color: white;
+  font-family: sans-serif;
+}
+
+.signup {
+  position: fixed;
+  top: 3%;
+  right: 4%;
+}
+
+.login {
+  position: fixed;
+  top: 3%;
+  right: 16%;
+}
+
+.manage {
+  position: fixed;
+  top: 3%;
+  right: 28%;
+}
+
+a {
+  color: #2986ff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2986ff;
+  text-decoration: underline;
+}
+
+.home {
+  position: fixed;
+  top: 3%;
+  right: 39%;
+}
